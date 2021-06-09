@@ -5,7 +5,7 @@ This website and its resources are intended for Jews or those who are in the pro
 ### Our Guides
 
 - Useful Information for Those Considering Converting to Judaism
-- Obtaining Free Judaica
+- [Obtaining Free Judaica](jewishresources.me/FreeJudaica)
 - Making Your Own Judaica (Kippah, Tzitzit, Tallit, etc.)
 - [Obtaining A Free Copy of The Tanakh](jewishresources.me/Tanakh)
 - Obtaining Reasonably Priced Judaica
