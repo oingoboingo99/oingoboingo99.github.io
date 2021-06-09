@@ -7,7 +7,7 @@ This website and its resources are intended for Jews or those who are in the pro
 - Useful Information for Those Considering Converting to Judaism
 - Obtaining Free Judaica
 - Making Your Own Judaica (Kippah, Tzitzit, Tallit, etc.)
-- Obtaining A Free Copy of The Tanakh
+- [Obtaining A Free Copy of The Tanakh](jewishresources.me/Tanakh)
 - Obtaining Reasonably Priced Judaica
 - Free PDF Resources (Siddur, Haggadah, etc.)
 - Resources for Coping with Antisemitism and Trauma Due to Being Jewish
