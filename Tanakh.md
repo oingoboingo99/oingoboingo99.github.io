@@ -30,15 +30,3 @@ On the Apple and Google stores there are also Tanakh apps available, for on the 
 - [Torah in Russian](https://www.academia.edu/36935982/%D0%A2%D0%BE%D1%80%D0%B0_%D0%9F%D1%8F%D1%82%D0%B8%D0%BA%D0%BD%D0%B8%D0%B6%D0%B8%D0%B5_%D0%9C%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%BE)
 
 Please contact us if you can provide access to PDF Tanakh in other languages.
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oingoboingo99/oingoboingo99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
