@@ -10,7 +10,7 @@ This website and its resources are intended for Jews or those who are in the pro
 - [Obtaining A Free Copy of The Tanakh](jewishresources.me/Tanakh)
 - Obtaining Reasonably Priced Judaica
 - [Free PDF Prayer Resources (Siddur, Haggadah, etc.)](jewishresources.me/PDF)
-- Resources for Coping with Antisemitism and Trauma Due to Being Jewish
+- [Resources for Coping with Antisemitism and Trauma Due to Being Jewish](jewishresources.me/copingwithantisemitsm)
 - Articles and Books for Those Reconnecting with Judaism or Converts
 - Book Reccomendations for Deassimilating Jews
 - Guide to Deassimilation
