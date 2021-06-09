@@ -1,15 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Jewish Resources
 
-You can use the [editor on GitHub](https://github.com/oingoboingo99/oingoboingo99.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This website and its resources are intended for Jews or those who are in the process of converting to Judaism. Unfortunately, we cannot provide resources to Massianic Christians. We kindly request you do not request free Judaica from any resources listed on this site if you are not Jewish or in the progress of becoming Jewish.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Our Guides
 
-### Markdown
+- Useful Information for Those Considering Converting to Judaism
+- Obtaining Free Judaica
+- Making Your Own Judaica (Kippah, Tzitzit, Tallit, etc.)
+- Obtaining A Free Copy of The Tanakh
+- Obtaining Reasonably Priced Judaica
+- Free PDF Resources (Siddur, Haggadah, etc.)
+- Resources for Coping with Antisemitism and Trauma Due to Being Jewish
+- Articles and Books for Those Reconnecting with Judaism or Converts
+- Book Reccomendations for Deassimilating Jews
+- Guide to Deassimilation
+- Book Reccomendations for Those Converting or Considering Converting
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our Community Discord
+Please fill out this form to join the Discord. The form is a vetting process to ensure it is a safe space for Jews.
 
-```markdown
-Syntax highlighted code block
+## Interested in Helping?
+If you are interested in writing content for Jewish Resources, please contact OingoBoingo99 on Github, cringe_69 on Tiktok or vaska.cr@gmail.com. 
 
 # Header 1
 ## Header 2
