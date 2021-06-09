@@ -31,9 +31,6 @@ On the Apple and Google stores there are also Tanakh apps available, for on the 
 
 Please contact us if you can provide access to PDF Tanakh in other languages.
 
-## Interested in Helping?
-If you are interested in writing content for Jewish Resources, please contact OingoBoingo99 on Github, cringe_69 on Tiktok or vaska.cr@gmail.com. 
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
