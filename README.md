@@ -9,7 +9,7 @@ This website and its resources are intended for Jews or those who are in the pro
 - Making Your Own Judaica (Kippah, Tzitzit, Tallit, etc.)
 - [Obtaining A Free Copy of The Tanakh](jewishresources.me/Tanakh)
 - Obtaining Reasonably Priced Judaica
-- Free PDF Resources (Siddur, Haggadah, etc.)
+- [Free PDF Prayer Resources (Siddur, Haggadah, etc.)](jewishresources.me/PDF)
 - Resources for Coping with Antisemitism and Trauma Due to Being Jewish
 - Articles and Books for Those Reconnecting with Judaism or Converts
 - Book Reccomendations for Deassimilating Jews
