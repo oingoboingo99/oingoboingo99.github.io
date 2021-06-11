@@ -23,7 +23,7 @@ Please note, if there is a unique trait for a book or resource (e.g. LGBT+ or Tr
 - [Maariv for the Sabbath Evening (Persian Jewish Tradition, English and Hebrew)](https://opensiddur.org/prayers/solilunar/shabbat/arvit-lshabbat/maariv-for-the-sabbath-evening-according-to-the-ancient-persian-rite/)
 - [Siddur ZaHav PDF](https://drive.google.com/file/d/1rp31Fh7Cdj8stQkGIpIOHb8mg24SkCv-/view?usp=sharing)
 - [סידור מסורתי/Siddur Masorti (Sephardi Siddur for Weekdays, Hebrew and English)](https://opensiddur.org/compilations/liturgical/siddurim/weekday-siddur/siddur-masorti-2019/)
-- [סידור תהילת ה׳ ידבר פי | Siddur Tehillat Hashem Yedaber Pi, by Rabbi Zalman Schachter-Shalomi (English Interpretive Translation)](https://opensiddur.org/compilations/liturgical/siddurim/weekday-siddur/tehillat-hashem-yedaber-pi-by-zalman-schachter-shalomi-2009/)
+- [סידור תהילת ה׳ ידבר פי | Siddur Tehillat Hashem Yedaber Pi, by Rabbi Zalman Schachter-Shalomi (English Interpretive Translation](https://opensiddur.org/compilations/liturgical/siddurim/weekday-siddur/tehillat-hashem-yedaber-pi-by-zalman-schachter-shalomi-2009/)
 - [תפלות ישראל לימי חול / Prayers of Isreal Siddur by Rabbi Jacob Bosniak (English and Hebrew)](https://opensiddur.org/compilations/liturgical/siddurim/weekday-siddur/prayers-of-israel-vol1-for-weekdays-and-special-occasions-by-rabbi-jacob-bosniak-1937/)
 
 ## Holidays
