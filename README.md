@@ -15,7 +15,7 @@ This website and its resources are intended for Jews or those who are in the pro
 - [Book + Article Reccomendations for Those Converting or Considering Converting](/consideringjudaism)
 
 ## Our Community Discord
-Please fill out this form to join the Discord. The form is a vetting process to ensure it is a safe space for Jews.
+To join the discord please message cringe_69 on Tiktok or email resourcesjewish@gmail.com. This is to ensure no antisemitic trolls are able to join.
 
 ## Interested in Helping?
 If you are interested in writing content or expanding our pages for Jewish Resources, please contact cringe_69 on tiktok or resourcesjewish@gmail.com
