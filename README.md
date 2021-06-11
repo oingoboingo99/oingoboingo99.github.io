@@ -7,41 +7,15 @@ This website and its resources are intended for Jews or those who are in the pro
 - [Obtaining Free Judaica](jewishresources.me/FreeJudaica)
 - [Making Your Own Judaica (Kippah, Tzitzit, Tallit, etc.)](/DIY)
 - [Obtaining A Free Copy of The Tanakh](/Tanakh)
-- [Guide to The Tanakh](/learning)
 - [Free PDF Prayer Resources (Siddur, Haggadah, etc.)](/PDF)
 - [Resources for Coping with Antisemitism and Trauma Due to Being Jewish](/copingwithantisemitsm)
 - [Articles and Books for Those Reconnecting with Judaism](/reconnecting)
-- [Book Reccomendations for Deassimilating Jews](/deassimilatebooks)
-- [Guide to Deassimilation](/deassimilate)
+- Book Reccomendations for Deassimilating Jews (In Progress)
+- Guide to Deassimilation (In Progress)
 - [Book + Article Reccomendations for Those Converting or Considering Converting](/consideringjudaism)
 
 ## Our Community Discord
 Please fill out this form to join the Discord. The form is a vetting process to ensure it is a safe space for Jews.
 
 ## Interested in Helping?
-If you are interested in writing content for Jewish Resources, please contact OingoBoingo99 on Github, cringe_69 on Tiktok or vaska.cr@gmail.com. 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oingoboingo99/oingoboingo99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you are interested in writing content or expanding our pages for Jewish Resources, please contact cringe_69 on tiktok or resourcesjewish@gmail.com
