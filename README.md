@@ -11,10 +11,10 @@ This website and its resources are intended for Jews or those who are in the pro
 - Obtaining Reasonably Priced Judaica
 - [Free PDF Prayer Resources (Siddur, Haggadah, etc.)](jewishresources.me/PDF)
 - [Resources for Coping with Antisemitism and Trauma Due to Being Jewish](jewishresources.me/copingwithantisemitsm)
-- Articles and Books for Those Reconnecting with Judaism or Converts
+- [Articles and Books for Those Reconnecting with Judaism](jewishresources.me/reconnecting)
 - Book Reccomendations for Deassimilating Jews
 - Guide to Deassimilation
-- Book Reccomendations for Those Converting or Considering Converting
+- [Book + Article Reccomendations for Those Converting or Considering Converting](jewishresources.me/consideringjudaism)
 
 ## Our Community Discord
 Please fill out this form to join the Discord. The form is a vetting process to ensure it is a safe space for Jews.
